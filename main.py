@@ -2,7 +2,7 @@ import pygame
 import requests
 import sys
 
-
+ 
 class Map(object):
     def __init__(self):
         self.lat = 56.638095
